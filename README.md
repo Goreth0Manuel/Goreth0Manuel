@@ -1,7 +1,7 @@
 🙋🏾‍♀️Olá, eu sou a <strong> < Goreth Manuel /> <strong/>
 ----
   -  🥰 Programar é vida!
-  - 🌱 Aprendendo mais sobre TypeScript!
+  - 🌱 Aprendendo mais sobre TypeScript e NextJs!
 
 ----
 🚀 Minhas Skills
