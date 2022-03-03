@@ -1,7 +1,8 @@
-## 🙋🏾‍♀️Olá, eu sou a <strong> < Goreth Manuel /> <strong/>
+## 🙋🏾‍♀️Olá, sou a <strong> < Goreth Manuel /> <strong/>
 ----
-  -  🥰 Programar é ter super poderes!
+  - 🥰 Programar é ter super poderes!
   - 🌱 Aprendendo mais sobre TypeScript e NextJs!
+  - 🎨 Estudando UX/UI
 
 ----
 ## 🚀 Minhas Skills
