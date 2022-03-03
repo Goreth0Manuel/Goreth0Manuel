@@ -2,7 +2,7 @@
 ----
   - 🥰 Programar é ter super poderes!
   - 🌱 Aprendendo mais sobre TypeScript e NextJs!
-  - 🎨 Estudando UX/UI
+  - 🎨 Estudando UX/UI!
 
 ----
 ## 🚀 Minhas Skills
