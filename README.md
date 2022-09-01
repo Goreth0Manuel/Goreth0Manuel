@@ -1,18 +1,20 @@
-# 🙋🏾‍♀️Olá, sou a <strong> < Goreth Manuel /> <strong/>
-----
+# 🙋🏾‍♀️Olá, eu sou a Goreth Manuel 
+
+  - 💻 *Estudante de Engenharia Informática*  
+  - 👩🏿‍💻 *Programadora web*
   - 🥰 Programar é ter super poderes!
   - 🌱 Aprendendo mais sobre TypeScript e NextJs!
   - 🎨 Estudando UX/UI!
 
-----
+#
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Goreth-Manuel">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Goreth-Manuel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goreth-Manuel&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-----
+#
 
 ## 🚀 Minhas Skills
  
