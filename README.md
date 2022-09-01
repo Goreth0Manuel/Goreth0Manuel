@@ -4,7 +4,7 @@
   - 💻 *Estudante de Engenharia Informática*  
   - 👩🏿‍💻 *Programadora web (Front-End)*
   - 🌱 *Áreas de interesse:* Analista de Sistemas e Gestão de projetos. 
-#
+----
 
 # 🚀 Minhas Skills
  
@@ -25,9 +25,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goreth-Manuel&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-#
-
-
+----
 ## 📱 Minhas redes socias
 
 <div>
