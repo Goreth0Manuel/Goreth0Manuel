@@ -1,8 +1,9 @@
 
 ## 🙋🏾‍♀️Olá, eu sou a Goreth Manuel 
 
-  - 💻 *Estudante de Engenharia Informática*  
+  - 📚 *Estudante de Engenharia Informática*  
   - 👩🏿‍💻 *Programadora web (Front-End)*
+  - 💻 *Embaixadora da CDA Girls*
   - 🌱 *Áreas de interesse:* Analista de Sistemas e Gestão de projetos. 
 
 ----
