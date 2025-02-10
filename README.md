@@ -5,7 +5,7 @@
   - 📚 *Engenheira Informática*  
   - 👩🏿‍💻 *Programadora web (Front-End)*
   - 💻 *Embaixadora da CDA Girls*
-  - 🌱 *Áreas de interesse:* Analista de Sistemas e Gestão de projetos. 
+  - 🌱 *Áreas de interesse:* Analista de Sistemas e PM. 
 
 ----
 
